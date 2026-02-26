@@ -15,7 +15,9 @@ export default function App() {
              <Dictionary />
           </main>
           <footer className="App-footer">
-           <small>Coded by Shalini. J</small>
+           <small>Coded by Shalini.J and it is opensourced on 
+            <a href="https://github.com/Shalini-jadala/dictionary-react-app" 
+            target="blank"> GitHub</a></small>
           </footer>
 
       </div>
