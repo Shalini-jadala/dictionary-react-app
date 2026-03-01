@@ -1,4 +1,5 @@
 import React from "react";
+import "./Phonetics.css";
 
 
 export default function Phenotic(props){
@@ -8,8 +9,9 @@ export default function Phenotic(props){
                rel="noopener noreferrer">
                 Listen
             </a>
-            <br />
-            {props.phonetic.text}
+              <span className="text">
+                 {props.phonetic.text}
+              </span>
         </div>
     );
 }

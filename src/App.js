@@ -12,7 +12,7 @@ export default function App() {
              className="App-logo img-fluid" alt="logo" />
          </header>
           <main>
-             <Dictionary />
+             <Dictionary defaultKeyword="Forest"/>
           </main>
           <footer className="App-footer">
            <small>Coded by Shalini.J and it is opensourced on 
