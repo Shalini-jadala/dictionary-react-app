@@ -15,9 +15,10 @@ export default function App() {
              <Dictionary defaultKeyword="Forest"/>
           </main>
           <footer className="App-footer">
-           <small>Coded by Shalini.J and it is opensourced on 
-            <a href="https://github.com/Shalini-jadala/dictionary-react-app" 
-            target="blank"> GitHub</a></small>
+           <small>Coded by <a href="https://github.com/Shalini-jadala" target='_blank' rel="noreferrer">Shalini.J</a>, it is opensourced on 
+            <a href="https://github.com/Shalini-jadala/dictionary-react-app" target='_blank' rel="noreferrer" > GitHub</a> and hosted on 
+            <a href="https://zesty-selkie-5954d3.netlify.app/" target='_blank' rel="noreferrer"> Netlify.</a>
+          </small>
           </footer>
 
       </div>
